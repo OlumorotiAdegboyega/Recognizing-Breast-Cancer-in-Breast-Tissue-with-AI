@@ -1,0 +1,1 @@
+These are the files for my 2024 SCience Fair Project; sadly, they are not cleaned up  or neatly presented here. Please take note when inspecting. There are leftover comments and lots of leftover sample data hosted here.
